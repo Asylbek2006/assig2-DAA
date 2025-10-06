@@ -1,0 +1,5 @@
+Algorithm,ArraySize,Comparisons,Swaps,ArrayAccesses,ExecutionTime(ms)
+InsertionSort,100,2268,99,4734,14,004
+InsertionSort,1000,255612,999,513222,6,027
+InsertionSort,10000,24759482,9999,49538962,33,032
+InsertionSort,100000,2498440270,99999,4997080538,3047,462
